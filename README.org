@@ -1,0 +1,34 @@
+* App Skeleton for conan, c++ 
+
+
+** The gist.
+- This skeleton project is a jumping off point for getting started
+  with a c++ project with conan, cmake and unit tests with gtest.
+
+- source code is in the ./src dir.
+- test code is in the ./test dir.
+
+- inspect the `from-scratch` rule in the Makefile
+
+- The from-scratch rule creates a distinct directory for build
+  artifacts apart project root, this keep the project clean by
+  not polliting the project with build temp files.
+
+
+** requirements
+- cmake 3.4.0
+- conan
+- make
+- bash shell
+
+** conan installation
+read https://docs.conan.io/en/latest/installation.html
+read https://docs.conan.io/en/latest/getting_started.html
+
+  
+* references
+** Choose the right cmake version
+https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1
+** How to unit test with conan and gtest?
+https://oscarforner.com/2015/12/23/Unit_test_with_Google_Test_for_C__
+
