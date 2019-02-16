@@ -11,8 +11,8 @@
 - inspect the `from-scratch` rule in the Makefile
 
 - The from-scratch rule creates a distinct directory for build
-  artifacts apart project root, this keep the project clean by
-  not polliting the project with build temp files.
+  artifacts apart from the project root, this keeps the project clean
+  by not polliting it with build temp files.
 
 
 ** requirements
