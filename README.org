@@ -22,8 +22,8 @@
 - bash shell
 
 ** conan installation
-read https://docs.conan.io/en/latest/installation.html
-read https://docs.conan.io/en/latest/getting_started.html
+- read https://docs.conan.io/en/latest/installation.html
+- read https://docs.conan.io/en/latest/getting_started.html
 
   
 * references
