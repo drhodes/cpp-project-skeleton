@@ -11,8 +11,10 @@ from-scratch: clean check-conan
 	make
 
 	@echo "--------------------------------\n"
-	@echo "Now the app should be built and ready to run like:\n"
-	@echo "  ./build/bin/appexe"
+	@echo "Now the app should be built and ready to run like:"
+	@echo "  ./build/bin/appexe\n"	
+	@echo "the tests should be built and ready to run like:"
+	@echo "  ./build/bin/apptest"
 
 test:
 	@echo running the tests

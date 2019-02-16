@@ -1,4 +1,4 @@
-* App Skeleton for conan, c++ 
+* App Skeleton for C++, conan, cmake and gtest
 
 
 ** The gist.
